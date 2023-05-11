@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Inheritance extends Encapsulation {
 
+
+
     static void payments(double c){
         double b =(c-c*0.1);
         System.out.println("The  final payments is :"+b);
@@ -88,5 +90,17 @@ Encapsulation a=new Encapsulation();
         }
 
 }
+
+static void  busshedule(){
+
+
+
+
+
+    System.out.println("Friday 4 pm will go to Mirpur");
+    System.out.println("Sunday 2 pm will go to uttara");
+    System.out.println("Tuesday 4 pm will go to Mirpur12");
+    System.out.println("Monday 3 pm will go to DhanmondiF");
+    }
 
      }
